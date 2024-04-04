@@ -1,0 +1,760 @@
+{
+    "sentences": [
+        {
+            "text": "I like the way you kiss me",
+            "words": [
+                { "text": "I ", "time": 600 },
+                { "text": "like ", "time": 885 },
+                { "text": "the ", "time": 985 },
+                { "text": "way ", "time": 1285 },
+                { "text": "you ", "time": 1685 },
+                { "text": "kiss ", "time": 1885 },
+                { "text": "me", "time": 2085 }
+            ]
+        },
+        {
+            "text": "I like the way you, uh",
+            "words": [
+                { "text": "I ", "time": 1485 },
+                { "text": "like ", "time": 285 },
+                { "text": "the ", "time": 585 },
+                { "text": "way ", "time": 785 },
+                { "text": "you, ", "time": 985 },
+                { "text": "uh", "time": 2000 }
+            ]
+        },
+        {
+            "text": "I like the way you kiss me",
+            "words": [
+                { "text": "I ", "time": 1185 },
+                { "text": "like ", "time": 185 },
+                { "text": "the ", "time": 385 },
+                { "text": "way ", "time": 485 },
+                { "text": "you ", "time": 785 },
+                { "text": "kiss ", "time": 1085 },
+                { "text": "me", "time": 1300 }
+            ]
+        },
+        {
+            "text": "I can tell you miss me",
+            "words": [
+                { "text": "I ", "time": 400 },
+                { "text": "can ", "time": 300 },
+                { "text": "tell ", "time": 500 },
+                { "text": "you ", "time": 600 },
+                { "text": "miss ", "time": 1000 },
+                { "text": "me", "time": 1350 }
+            ]
+        },
+        {
+            "text": "I can tell it hits,",
+            "words": [
+                { "text": "I ", "time": 400 },
+                { "text": "can ", "time": 300 },
+                { "text": "tell ", "time": 500 },
+                { "text": "it", "time": 600 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "not tryna be romantic",
+            "words": [
+                { "text": "not ", "time": 600 },
+                { "text": "tryna ", "time": 400 },
+                { "text": "be ", "time": 700 },
+                { "text": "romantic", "time": 1000 }
+            ]
+        },
+        {
+            "text": "I'll hit it from the back",
+            "words": [
+                { "text": "I'll ", "time": 600 },
+                { "text": "hit ", "time": 400 },
+                { "text": "it ", "time": 500 },
+                { "text": "from ", "time": 650 },
+                { "text": "the ", "time": 950 },
+                { "text": "back", "time": 1100 }
+            ]
+        },
+        {
+            "text": "just so you don't get attached",
+            "words": [
+                { "text": "just ", "time": 500 },
+                { "text": "so ", "time": 350 },
+                { "text": "you ", "time": 500 },
+                { "text": "don't ", "time": 650 },
+                { "text": "get ", "time": 800 },
+                { "text": "attached", "time": 1050 }
+            ]
+        },
+        {
+            "text": "I like the way you kiss me",
+            "words": [
+                { "text": "I ", "time": 2150 },
+                { "text": "like ", "time": 185 },
+                { "text": "the ", "time": 385 },
+                { "text": "way ", "time": 485 },
+                { "text": "you ", "time": 785 },
+                { "text": "kiss ", "time": 1085 },
+                { "text": "me", "time": 1300 }
+            ]
+        },
+        {
+            "text": "I can tell you miss me",
+            "words": [
+                { "text": "I ", "time": 400 },
+                { "text": "can ", "time": 300 },
+                { "text": "tell ", "time": 500 },
+                { "text": "you ", "time": 600 },
+                { "text": "miss ", "time": 1000 },
+                { "text": "me", "time": 1350 }
+            ]
+        },
+        {
+            "text": "I can tell it hits,",
+            "words": [
+                { "text": "I ", "time": 400 },
+                { "text": "can ", "time": 300 },
+                { "text": "tell ", "time": 500 },
+                { "text": "it", "time": 600 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "not tryna be romantic",
+            "words": [
+                { "text": "not ", "time": 600 },
+                { "text": "tryna ", "time": 400 },
+                { "text": "be ", "time": 700 },
+                { "text": "romantic", "time": 1000 }
+            ]
+        },
+        {
+            "text": "I'll hit it from the back",
+            "words": [
+                { "text": "I'll ", "time": 600 },
+                { "text": "hit ", "time": 400 },
+                { "text": "it ", "time": 500 },
+                { "text": "from ", "time": 650 },
+                { "text": "the ", "time": 950 },
+                { "text": "back", "time": 1100 }
+            ]
+        },
+        {
+            "text": "just so you don't get attached",
+            "words": [
+                { "text": "just ", "time": 500 },
+                { "text": "so ", "time": 350 },
+                { "text": "you ", "time": 500 },
+                { "text": "don't ", "time": 650 },
+                { "text": "get ", "time": 800 },
+                { "text": "attached", "time": 1050 }
+            ]
+        },
+        {
+            "text": "you bite my lip just for the taste",
+            "words": [
+                { "text": "you ", "time": 1500 },
+                { "text": "bite ", "time": 200 },
+                { "text": "my ", "time": 800 },
+                { "text": "lip ", "time": 1000 },
+                { "text": "just ", "time": 1500 },
+                { "text": "for ", "time": 1700 },
+                { "text": "the ", "time": 2200 },
+                { "text": "taste", "time": 2450 }
+            ]
+        },
+        {
+            "text": "you're on your knees",
+            "words": [
+                { "text": "you're ", "time": 800 },
+                { "text": "on ", "time": 200 },
+                { "text": "your ", "time": 750 },
+                { "text": "knees", "time": 1000 }
+            ]
+        },
+        {
+            "text": "I'm on the case",
+            "words": [
+                { "text": "I'm ", "time": 550 },
+                { "text": "on ", "time": 200 },
+                { "text": "the ", "time": 750 },
+                { "text": "case", "time": 1000 }
+            ]
+        },
+        {
+            "text": "you take the heat and with such grace",
+            "words": [
+                { "text": "you ", "time": 550 },
+                { "text": "take ", "time": 200 },
+                { "text": "the ", "time": 650 },
+                { "text": "heat ", "time": 900 },
+                { "text": "and ", "time": 1450 },
+                { "text": "with ", "time": 1700 },
+                { "text": "such ", "time": 2050 },
+                { "text": "grace", "time": 2300 }
+            ]
+        },
+        {
+            "text": "you say we're done but here you stay",
+            "words": [
+                { "text": "you ", "time": 550 },
+                { "text": "say ", "time": 200 },
+                { "text": "we're ", "time": 850 },
+                { "text": "done ", "time": 1100 },
+                { "text": "but ", "time": 1250 },
+                { "text": "here", "time": 1450 },
+                { "text": " you ", "time": 1650 },
+                { "text": "stay", "time": 1850 }
+            ]
+        },
+        {
+            "text": "you said you're scared I'll let you down",
+            "words": [
+                { "text": "you ", "time": 550 },
+                { "text": "said ", "time": 150 },
+                { "text": "you're ", "time": 300 },
+                { "text": "scared ", "time": 600 },
+                { "text": "I'll ", "time": 750 },
+                { "text": "let", "time": 900 },
+                { "text": " you ", "time": 1100 },
+                { "text": "down", "time": 1200 }
+            ]
+        },
+        {
+            "text": "stick around and you'll find out",
+            "words": [
+                { "text": "stick ", "time": 1800 },
+                { "text": "around ", "time": 300 },
+                { "text": "and ", "time": 500 },
+                { "text": "you'll ", "time": 800 },
+                { "text": "find ", "time": 1100 },
+                { "text": "out", "time": 1300 }
+            ]
+        },
+        {
+            "text": "but don't you wanna make me proud?",
+            "words": [
+                { "text": "but ", "time": 1800 },
+                { "text": "don't ", "time": 200 },
+                { "text": "you ", "time": 400 },
+                { "text": "wanna ", "time": 700 },
+                { "text": "make ", "time": 1000 },
+                { "text": "me ", "time": 1150 },
+                { "text": "proud?", "time": 1350 }
+            ]
+        },
+        {
+            "text": "'cause I'm so proud",
+            "words": [
+                { "text": "'cause ", "time": 2450 },
+                { "text": "I'm ", "time": 200 },
+                { "text": "so ", "time": 400 },
+                { "text": "proud ", "time": 700 }
+            ]
+        },
+        {
+            "text": "baby, I'm so proud of you",
+            "words": [
+                { "text": "baby, ", "time": 1000 },
+                { "text": "I'm ", "time": 200 },
+                { "text": "so ", "time": 400 },
+                { "text": "proud ", "time": 650 },
+                { "text": "of ", "time": 1000 },
+                { "text": "you ", "time": 1300 }
+            ]
+        },
+        {
+            "text": "I like the way you kiss me",
+            "words": [
+                { "text": "I ", "time": 1300 },
+                { "text": "like ", "time": 185 },
+                { "text": "the ", "time": 385 },
+                { "text": "way ", "time": 485 },
+                { "text": "you ", "time": 785 },
+                { "text": "kiss ", "time": 1085 },
+                { "text": "me", "time": 1300 }
+            ]
+        },
+        {
+            "text": "I can tell you miss me",
+            "words": [
+                { "text": "I ", "time": 400 },
+                { "text": "can ", "time": 300 },
+                { "text": "tell ", "time": 500 },
+                { "text": "you ", "time": 600 },
+                { "text": "miss ", "time": 1000 },
+                { "text": "me", "time": 1350 }
+            ]
+        },
+        {
+            "text": "I can tell it hits,",
+            "words": [
+                { "text": "I ", "time": 400 },
+                { "text": "can ", "time": 300 },
+                { "text": "tell ", "time": 500 },
+                { "text": "it", "time": 600 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "not tryna be romantic",
+            "words": [
+                { "text": "not ", "time": 600 },
+                { "text": "tryna ", "time": 400 },
+                { "text": "be ", "time": 700 },
+                { "text": "romantic", "time": 1000 }
+            ]
+        },
+        {
+            "text": "I'll hit it from the back",
+            "words": [
+                { "text": "I'll ", "time": 600 },
+                { "text": "hit ", "time": 400 },
+                { "text": "it ", "time": 500 },
+                { "text": "from ", "time": 650 },
+                { "text": "the ", "time": 950 },
+                { "text": "back", "time": 1100 }
+            ]
+        },
+        {
+            "text": "just so you don't get attached",
+            "words": [
+                { "text": "just ", "time": 500 },
+                { "text": "so ", "time": 350 },
+                { "text": "you ", "time": 500 },
+                { "text": "don't ", "time": 650 },
+                { "text": "get ", "time": 800 },
+                { "text": "attached", "time": 1050 }
+            ]
+        },
+        {
+            "text": "I like the way you kiss me",
+            "words": [
+                { "text": "I ", "time": 2150 },
+                { "text": "like ", "time": 185 },
+                { "text": "the ", "time": 385 },
+                { "text": "way ", "time": 485 },
+                { "text": "you ", "time": 785 },
+                { "text": "kiss ", "time": 1085 },
+                { "text": "me", "time": 1300 }
+            ]
+        },
+        {
+            "text": "I can tell you miss me",
+            "words": [
+                { "text": "I ", "time": 400 },
+                { "text": "can ", "time": 300 },
+                { "text": "tell ", "time": 500 },
+                { "text": "you ", "time": 600 },
+                { "text": "miss ", "time": 1000 },
+                { "text": "me", "time": 1350 }
+            ]
+        },
+        {
+            "text": "I can tell it hits,",
+            "words": [
+                { "text": "I ", "time": 400 },
+                { "text": "can ", "time": 300 },
+                { "text": "tell ", "time": 500 },
+                { "text": "it", "time": 600 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "not tryna be romantic",
+            "words": [
+                { "text": "not ", "time": 600 },
+                { "text": "tryna ", "time": 400 },
+                { "text": "be ", "time": 700 },
+                { "text": "romantic", "time": 1000 }
+            ]
+        },
+        {
+            "text": "I'll hit it from the back",
+            "words": [
+                { "text": "I'll ", "time": 600 },
+                { "text": "hit ", "time": 400 },
+                { "text": "it ", "time": 500 },
+                { "text": "from ", "time": 650 },
+                { "text": "the ", "time": 950 },
+                { "text": "back", "time": 1100 }
+            ]
+        },
+        {
+            "text": "just so you don't get attached",
+            "words": [
+                { "text": "just ", "time": 500 },
+                { "text": "so ", "time": 350 },
+                { "text": "you ", "time": 500 },
+                { "text": "don't ", "time": 650 },
+                { "text": "get ", "time": 800 },
+                { "text": "attached", "time": 1050 }
+            ]
+        },
+        {
+            "text": "do I stress you out?",
+            "words": [
+                { "text": "do ", "time": 900 },
+                { "text": "I ", "time": 150 },
+                { "text": "stress ", "time": 300 },
+                { "text": "you ", "time": 450 },
+                { "text": "out? ", "time": 600 }
+            ]
+        },
+        {
+            "text": "can I help you out?",
+            "words": [
+                { "text": "can ", "time": 850 },
+                { "text": "I ", "time": 150 },
+                { "text": "help ", "time": 300 },
+                { "text": "you ", "time": 500 },
+                { "text": "out? ", "time": 650 }
+            ]
+        },
+        {
+            "text": "does it turn you on",
+            "words": [
+                { "text": "does ", "time": 950 },
+                { "text": "it ", "time": 150 },
+                { "text": "turn ", "time": 300 },
+                { "text": "you ", "time": 500 },
+                { "text": "on ", "time": 650 }
+            ]
+        },
+        {
+            "text": "when I turn you 'round?",
+            "words": [
+                { "text": "when ", "time": 950 },
+                { "text": "I ", "time": 150 },
+                { "text": "turn ", "time": 300 },
+                { "text": "you ", "time": 500 },
+                { "text": "'round? ", "time": 650 }
+            ]
+        },
+        {
+            "text": "can we make a scene?",
+            "words": [
+                { "text": "can ", "time": 950 },
+                { "text": "we ", "time": 150 },
+                { "text": "make ", "time": 300 },
+                { "text": "a ", "time": 500 },
+                { "text": "scene? ", "time": 650 }
+            ]
+        },
+        {
+            "text": "can we make it loud?",
+            "words": [
+                { "text": "can ", "time": 950 },
+                { "text": "we ", "time": 150 },
+                { "text": "make ", "time": 300 },
+                { "text": "it ", "time": 500 },
+                { "text": "loud? ", "time": 650 }
+            ]
+        },
+        {
+            "text": "'cause I'm so proud",
+            "words": [
+                { "text": "'cause ", "time": 1050 },
+                { "text": "I'm ", "time": 200 },
+                { "text": "so ", "time": 400 },
+                { "text": "proud ", "time": 700 }
+            ]
+        },
+        {
+            "text": "baby, I'm so proud of you",
+            "words": [
+                { "text": "baby, ", "time": 800 },
+                { "text": "I'm ", "time": 200 },
+                { "text": "so ", "time": 400 },
+                { "text": "proud ", "time": 650 },
+                { "text": "of ", "time": 1000 },
+                { "text": "you ", "time": 1300 }
+            ]
+        },
+        {
+            "text": "so proud of you",
+            "words": [
+                { "text": "so ", "time": 5200 },
+                { "text": "proud ", "time": 400 },
+                { "text": "of ", "time": 800 },
+                { "text": "you ", "time": 1200 }
+            ]
+        },
+        {
+            "text": "so proud of you",
+            "words": [
+                { "text": "so ", "time": 5100 },
+                { "text": "proud ", "time": 400 },
+                { "text": "of ", "time": 800 },
+                { "text": "you ", "time": 1200 }
+            ]
+        },
+        {
+            "text": "I like the way you kiss me",
+            "words": [
+                { "text": "I ", "time": 1185 },
+                { "text": "like ", "time": 185 },
+                { "text": "the ", "time": 385 },
+                { "text": "way ", "time": 485 },
+                { "text": "you ", "time": 785 },
+                { "text": "kiss ", "time": 1085 },
+                { "text": "me", "time": 1300 }
+            ]
+        },
+        {
+            "text": "I can tell you miss me",
+            "words": [
+                { "text": "I ", "time": 400 },
+                { "text": "can ", "time": 300 },
+                { "text": "tell ", "time": 500 },
+                { "text": "you ", "time": 600 },
+                { "text": "miss ", "time": 1000 },
+                { "text": "me", "time": 1350 }
+            ]
+        },
+        {
+            "text": "I can tell it hits,",
+            "words": [
+                { "text": "I ", "time": 400 },
+                { "text": "can ", "time": 300 },
+                { "text": "tell ", "time": 500 },
+                { "text": "it", "time": 600 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "not tryna be romantic",
+            "words": [
+                { "text": "not ", "time": 600 },
+                { "text": "tryna ", "time": 400 },
+                { "text": "be ", "time": 700 },
+                { "text": "romantic", "time": 1000 }
+            ]
+        },
+        {
+            "text": "I'll hit it from the back",
+            "words": [
+                { "text": "I'll ", "time": 600 },
+                { "text": "hit ", "time": 400 },
+                { "text": "it ", "time": 500 },
+                { "text": "from ", "time": 650 },
+                { "text": "the ", "time": 950 },
+                { "text": "back", "time": 1100 }
+            ]
+        },
+        {
+            "text": "just so you don't get attached",
+            "words": [
+                { "text": "just ", "time": 500 },
+                { "text": "so ", "time": 350 },
+                { "text": "you ", "time": 500 },
+                { "text": "don't ", "time": 650 },
+                { "text": "get ", "time": 800 },
+                { "text": "attached", "time": 1050 }
+            ]
+        },
+        {
+            "text": "I like the way you kiss me",
+            "words": [
+                { "text": "I ", "time": 2150 },
+                { "text": "like ", "time": 185 },
+                { "text": "the ", "time": 385 },
+                { "text": "way ", "time": 485 },
+                { "text": "you ", "time": 785 },
+                { "text": "kiss ", "time": 1085 },
+                { "text": "me", "time": 1300 }
+            ]
+        },
+        {
+            "text": "I can tell you miss me",
+            "words": [
+                { "text": "I ", "time": 400 },
+                { "text": "can ", "time": 300 },
+                { "text": "tell ", "time": 500 },
+                { "text": "you ", "time": 600 },
+                { "text": "miss ", "time": 1000 },
+                { "text": "me", "time": 1350 }
+            ]
+        },
+        {
+            "text": "I can tell it hits,",
+            "words": [
+                { "text": "I ", "time": 400 },
+                { "text": "can ", "time": 300 },
+                { "text": "tell ", "time": 500 },
+                { "text": "it", "time": 600 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "hits",
+            "words": [
+                { "text": "hits", "time": 200 }
+            ]
+        },
+        {
+            "text": "not tryna be romantic",
+            "words": [
+                { "text": "not ", "time": 600 },
+                { "text": "tryna ", "time": 400 },
+                { "text": "be ", "time": 700 },
+                { "text": "romantic", "time": 1000 }
+            ]
+        },
+        {
+            "text": "I'll hit it from the back",
+            "words": [
+                { "text": "I'll ", "time": 600 },
+                { "text": "hit ", "time": 400 },
+                { "text": "it ", "time": 500 },
+                { "text": "from ", "time": 650 },
+                { "text": "the ", "time": 950 },
+                { "text": "back", "time": 1100 }
+            ]
+        },
+        {
+            "text": "just so you don't get attached",
+            "words": [
+                { "text": "just ", "time": 500 },
+                { "text": "so ", "time": 350 },
+                { "text": "you ", "time": 500 },
+                { "text": "don't ", "time": 650 },
+                { "text": "get ", "time": 800 },
+                { "text": "attached", "time": 1050 }
+            ]
+        }
+    ]
+}
