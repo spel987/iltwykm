@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    check_resolution();
+    //check_resolution();
 
     window.addEventListener('resize', () => {check_resolution()}); 
 });
